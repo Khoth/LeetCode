@@ -1,4 +1,4 @@
-﻿namespace Problem1
+﻿namespace Problems.Problem0001
 {
     public class Solution
     {

@@ -1,8 +1,8 @@
-using Problem9;
+using Problems.Problem0009;
 
 namespace UnitTests
 {
-    public class Problem9
+    public class Problem0009
     {
         [Theory]
         [InlineData(121, true)]

@@ -1,4 +1,4 @@
-﻿namespace Problem2
+﻿namespace Problems.Problem0002
 {
     public class ListNode
     {

@@ -1,8 +1,8 @@
-using Problem1;
+using Problems.Problem0001;
 
 namespace UnitTests
 {
-    public class Problem1
+    public class Problem0001
     {
         [Theory]
         [InlineData(new int[] { 2, 7, 11, 15 }, 9, new int[] { 0, 1 })]

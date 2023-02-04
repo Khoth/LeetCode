@@ -1,10 +1,9 @@
-﻿using Newtonsoft.Json.Linq;
-using Problem2;
+﻿using Problems.Problem0002;
 using System.Text;
 
 namespace UnitTests
 {
-    public class Problem2
+    public class Problem0002
     {
         [Theory]
         [InlineData("2,4,3", "5,6,4", "7,0,8")]
